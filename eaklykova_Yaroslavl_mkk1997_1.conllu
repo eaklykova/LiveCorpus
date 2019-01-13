@@ -1,0 +1,277 @@
+# time_begin = 0:00:00
+
+eak@
+
+# sent_id = 3
+# text = Какие у тебя воспоминания о школе?
+1	Какие	какой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+2	у	у	ADP	_	_	_	_	_	_
+3	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2	_	_	_	_
+4	воспоминания	воспоминание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
+5	о	о	ADP	_	_	_	_	_	_
+6	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 5
+# text = Аа...
+1	Аа	Аа	INTJ	_	_	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 7
+# text = на самом деле, это было достаточно веселое время, я не помню ничего из школьной программы, но зато помню, как мы с друзьями эээ...
+1	на	на	ADP	_	_	_	_	_	_
+2	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+3	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	было	быть	!AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	достаточно	достаточно	ADV	_	Degree=Pos	_	_	_	_
+8	веселое	веселый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+9	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+12	не	не	PART	_	_	_	_	_	_
+13	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+14	ничего	ничто	PRON	_	Case=Gen	_	_	_	_
+15	из	из	ADP	_	_	_	_	_	_
+16	школьной	школьный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+17	программы	программа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	_
+19	но	но	CCONJ	_	_	_	_	_	_
+20	зато	зато	PART	_	_	_	_	_	_
+21	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	_
+23	как	как	SCONJ	_	_	_	_	_	_
+24	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+25	с	с	ADP	_	_	_	_	_	_
+26	друзьями	друг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+27	эээ	эээ	INTJ	_	_	_	_	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 9
+# text = веселились на переменках.
+1	веселились	веселиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+2	на	на	ADP	_	_	_	_	_	_
+3	переменках	переменка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+eak@
+
+# sent_id = 11
+# text = А кем ты мечтала стать, когда вырастешь?
+1	А	а	CCONJ	_	_	_	_	_	_
+2	кем	кто	PRON	_	Case=Ins	_	_	_	_
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+4	мечтала	мечтать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	когда	когда	SCONJ	_	_	_	_	_	_
+8	вырастешь	вырасти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 13
+# text = Вот эээ...
+1	Вот	вот	PART	_	_	_	_	_	_
+2	эээ	эээ	INTJ	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 15
+# text = выбор профессии у меня в детстве был больной темой, потому что я...
+1	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	профессии	профессия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+3	у	у	ADP	_	_	_	_	_	_
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+5	в	в	ADP	_	_	_	_	_	_
+6	детстве	детство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+7	был	быть	!AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	больной	больной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+9	темой	тема	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	_
+11	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+12	что	что	SCONJ	_	_	_	_	_	_
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 17
+# text = каждые полгода меняла предпочтения: то я хотела стать певицей, то актрисой, то балериной, то автослесарем.
+1	каждые	каждый	DET	_	Case=Nom|Number=Plur	_	_	_	_
+2	пол	пол	NUM	_	_	_	_	_	SpaceAfter=No
+3	года	год	NOUN	_	Animacy=Inan|!Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+4	меняла	менять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	предпочтения	предпочтение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	_	_	_	_
+7	то	то	SCONJ	_	_	_	_	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+9	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	_
+11	певицей	певица	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	_
+13	то	то	SCONJ	_	_	_	_	_	_
+14	актрисой	актриса	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	_
+16	то	то	SCONJ	_	_	_	_	_	_
+17	балериной	балерина	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	_
+19	то	то	SCONJ	_	_	_	_	_	_
+20	автослесарем	автослесарь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 19
+# text = В девятом классе я почему-то решила быть адвокатом, но после того как...
+1	В	в	ADP	_	_	_	_	_	_
+2	девятом	девятый	ANUM	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	классе	класс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+5	почему-то	почему-то	ADV	_	Degree=Pos	_	_	_	_
+6	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+8	адвокатом	адвокат	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	_
+10	но	но	CCONJ	_	_	_	_	_	_
+11	после	после	ADP	_	_	_	_	_	_
+12	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+13	как	как	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 21
+# text = на нашем школьном "процессе" мой...
+1	на	на	ADP	_	_	_	_	_	_
+2	нашем	наш	DET	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+3	школьном	школьный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	"	"	PUNCT	_	_	_	_	_	SpaceAfter=No
+5	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+6	"	"	PUNCT	_	_	_	_	_	_
+7	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 23
+# text = подзащитный с треском провалился, я решила, что это не мое.
+1	подзащитный	подзащитный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+2	с	с	ADP	_	_	_	_	_	_
+3	треском	треск	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+4	провалился	провалиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+7	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	_
+9	что	что	SCONJ	_	_	_	_	_	_
+10	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+11	не	не	PART	_	_	_	_	_	_
+12	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 25
+# text = И...
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 27
+# text = в конце концов пришла к лингвистике.
+1	в	в	ADP	_	_	_	_	_	_
+2	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+3	концов	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+4	пришла	прийти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	к	к	ADP	_	_	_	_	_	_
+6	лингвистике	лингвистика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+eak@
+
+# sent_id = 29
+# text = Как ты предпочитаешь проводить каникулы или отпуск?
+1	Как	как	ADV	_	Degree=Pos	_	_	_	_
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+3	предпочитаешь	предпочитать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	проводить	проводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+5	каникулы	каникулы	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	_	_	_	_
+6	или	или	CCONJ	_	_	_	_	_	_
+7	отпуск	отпуск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 31
+# text = Когда выдается свободное время, я люблю путешествовать по России, иногда на экскурсиях, иногда автостопом.
+1	Когда	когда	SCONJ	_	_	_	_	_	_
+2	выдается	выдаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+3	свободное	свободный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+7	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+8	путешествовать	путешествовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+9	по	по	ADP	_	_	_	_	_	_
+10	России	Россия	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	_
+12	иногда	иногда	ADV	_	Degree=Pos	_	_	_	_
+13	на	на	ADP	_	_	_	_	_	_
+14	экскурсиях	экскурсия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	_
+16	иногда	иногда	ADV	_	Degree=Pos	_	_	_	_
+17	автостопом	автостоп	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+mkk@
+
+# sent_id = 33
+# text = Если у меня нет времени выбраться за город, то я гуляю по своему городу и ищу какие-то новые красивые места.
+1	Если	если	SCONJ	_	_	_	_	_	_
+2	у	у	ADP	_	_	_	_	_	_
+3	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+4	нет	нет	VERB	_	Mood=Ind|Tense=Pres|Voice=Act	_	_	_	_
+5	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+6	выбраться	выбраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	_
+7	за	за	ADP	_	_	_	_	_	_
+8	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	_
+10	то	то	SCONJ	_	_	_	_	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+12	гуляю	гулять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+13	по	по	ADP	_	_	_	_	_	_
+14	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+15	городу	город	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+16	и	и	CCONJ	_	_	_	_	_	_
+17	ищу	искать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+18	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	_
+19	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+20	красивые	красивый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+21	места	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+# time_end = 0:59:50
